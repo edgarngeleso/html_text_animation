@@ -1,0 +1,19 @@
+{
+  "name": "animate_text",
+  "version": "1.0.0",
+  "description": "A simple html text animation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["Animate",
+                "flyin",
+                "flyout",
+                "flyout-reverse",
+                "fadein",
+                "fadeout",
+                "typewriter",
+                "wavy"],
+  "author": "Edgar Ngeleso",
+  "license": "ISC"
+}
