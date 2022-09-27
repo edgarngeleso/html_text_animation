@@ -1,12 +1,15 @@
 {
-  "name": "animate_text",
-  "version": "1.0.0",
+  "name": "@edgarngeleso/html_text_animation",
+  "version": "1.0.1",
   "description": "A simple html text animation.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": ["Animate",
+              "html",
+              "text",
+              "animation",
                 "flyin",
                 "flyout",
                 "flyout-reverse",
